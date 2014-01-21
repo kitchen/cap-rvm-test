@@ -15,7 +15,7 @@
 # something that quacks like a hash can be used to set
 # extended properties on the server.
 #server 'example.com', user: 'deploy', roles: %w{web app}, my_property: :my_value
-server 'kitchenscratch.central.atl.3dna.io', user: 'rails', rolse: %w{web app}
+server 'kitchenscratch.central.atl.3dna.io', user: 'rails', roles: %w{web app}
 
 # you can set custom ssh options
 # it's possible to pass any option but you need to keep in mind that net/ssh understand limited list of options
