@@ -8,6 +8,8 @@ require 'capistrano/deploy'
 #
 # For documentation on these, see for example:
 #
+#
+require 'rvm1/capistrano3'
 #   https://github.com/capistrano/rvm
 #   https://github.com/capistrano/rbenv
 #   https://github.com/capistrano/chruby
